@@ -12,7 +12,7 @@ So, now, after few years of programming, i feel something is missing in my way. 
 So, this comes just to my point. Why writing a blog:
 
 `1.To arrange my thoughts.`
-	Just like me, i believe a lot of people are lost within our immese amount of thinking, and organizing it on paper (or blog, in my case) is increadbly important and helpful.
+	Just like me, i believe a lot of people are lost within our immese amount of thinking, and organizing it on paper (or blog, in my case) is incredibly important and helpful.
 
 `2.To improve myself.`
 	I saw a lot of people writing blogs, about this and that, and even though the blogs were meant to other people, they actually wrote things they found/encountered/concluded in their working process. They actually wrote blog posts that are their work conclusions, which makes them improve themselves.
