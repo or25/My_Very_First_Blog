@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "My Very Fist Blog Post"
 date:   2019-03-27 02:03:10 +0200
 categories: jekyll update
 ---
@@ -10,8 +10,10 @@ I'm a last year computer science student. When i began my journy toward being a 
 So, now, after few years of programming, i feel something is missing in my way. I, again, feel in a little bit chaos. There is a lot to do, a lot to make, a lot that's interesting, but - it only makes things harder to get in to.
 
 So, this comes just to my point. Why writing a blog:
+
 '1.To arrange my thoughts.'
 	Just like me, i believe a lot of people are lost within our immese amount of thinking, and organizing it on paper (or blog, in my case) is increadbly important and helpful.
+	
 '2.To improve myself.'
 	I saw a lot of people writing blogs, about this and that, and even though the blogs were meant to other people, they actually wrote things they found/encountered/concluded in their working process. They actually wrote blog posts that are their work conclusions, which makes them improve themselves.
 '3.To help beggining programmers.'
