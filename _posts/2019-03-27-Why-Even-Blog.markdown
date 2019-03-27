@@ -12,11 +12,15 @@ So, now, after few years of programming, i feel something is missing in my way. 
 So, this comes just to my point. Why writing a blog:
 
 `1.To arrange my thoughts.`
+
 	Just like me, i believe a lot of people are lost within our immese amount of thinking, and organizing it on paper (or blog, in my case) is increadbly important and helpful.
 
 `2.To improve myself.`
+
 	I saw a lot of people writing blogs, about this and that, and even though the blogs were meant to other people, they actually wrote things they found/encountered/concluded in their working process. They actually wrote blog posts that are their work conclusions, which makes them improve themselves.
-'3.To help beggining programmers.'
+
+`3.To help beggining programmers.`
+
 	Well, there are so many learning resources, so many books, online courses, options for literally everything is infinite!
 	And that's bad. Begginer programmer (or begginer at anything) can't really tell important from not, useful from not, and investing your time where it is really matter. I think, after teaching programming for a few year, and looking at my learning process from up view, that i can help with my words to some begginers (or at least i hope so).
 
