@@ -11,7 +11,7 @@ So, now, after few years of programming, i feel something is missing in my way. 
 
 So, this comes just to my point. Why writing a blog:
 
-`1.To arrange my thoughts.
+`1.To arrange my thoughts.`
 	Just like me, i believe a lot of people are lost within our immese amount of thinking, and organizing it on paper (or blog, in my case) is increadbly important and helpful.
 
 `2.To improve myself.`
