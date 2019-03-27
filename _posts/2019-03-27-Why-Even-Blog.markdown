@@ -19,7 +19,6 @@ So, this comes just to my point. Why writing a blog:
 
 	I saw a lot of people writing blogs, about this and that, and even though the blogs were meant to other people, they actually wrote things they found/encountered/concluded in their working process. They actually wrote blog posts that are their work conclusions, which makes them improve themselves.
 
-
 `3.To help beggining programmers.`
 
 	Well, there are so many learning resources, so many books, online courses, options for literally everything is infinite!
